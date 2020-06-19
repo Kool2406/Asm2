@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100vw;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form{
+    width: 25%;
+    background-color: aqua;
+    padding: 20px;
+   border-radius: 15px;
+    
+}
+.flex{
+   
+    text-align: center;
+    
+}
+
+.flex p{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-p{
+    
+    text-align: center;
+}
+.btn-p input{
+    padding: 3px 15px;
+}

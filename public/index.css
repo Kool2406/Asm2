@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 20px;
+}
+.styleTable{
+    border-collapse: collapse;
+    width: 100%;
+}
+.styleTable tr{
+    width: 100%;
+}
+
+.id{
+    width: 10%;
+    padding: 10px;
+}
+.name{
+    width: 35%;
+    padding: 10px;
+}
+.btn{
+text-align: center;
+    
+}
+.btn a{
+    display: block;
+    text-decoration: none;
+    
+} 
+h1{
+    margin-bottom: 20px;
+}
+.create{
+    margin-bottom: 20px;
+    
+}
+.create a{
+    padding: 3px 10px;
+    color: white;
+    border: 1px solid black;
+    background-color: aqua;
+    text-decoration: none;
+    border-radius: 20px;
+    line-height: 30px;
+}
